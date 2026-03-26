@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Login</name>
+   <tag></tag>
+   <elementGuidId>2a30e080-90a4-4d2d-8b55-14724449e4a1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.header-action-text.black--text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' header-action-text ') and contains(concat(' ', normalize-space(@class), ' '), ' black--text ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value></value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>77845a51-384a-4624-abd3-f67d491692b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>header-action-text black--text px-0</value>
+      <webElementGuid>b18e1c1e-8a73-4458-9ed2-976aedaca282</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                    Login
+                  </value>
+      <webElementGuid>452fe92a-9e15-468f-961e-40bd01fe1674</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-b8c3dcf8f4ae95ab64a18c0c2fb93b71</value>
+      <webElementGuid>b46a00aa-505c-4f9d-83ee-b30d58d4cf2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' header-action-text ') and contains(concat(' ', normalize-space(@class), ' '), ' black--text ')]</value>
+      <webElementGuid>b1668065-a545-4feb-a63e-02407f0ac028</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' header-action-text ') and contains(concat(' ', normalize-space(@class), ' '), ' black--text ')]</value>
+      <webElementGuid>40cb0ebe-0e90-46f0-beb0-e361fb563b6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '
+                    Login
+                  ' or . = '
+                    Login
+                  ')]</value>
+      <webElementGuid>650a10cf-6ccc-4844-b4da-50687f3b1ed1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

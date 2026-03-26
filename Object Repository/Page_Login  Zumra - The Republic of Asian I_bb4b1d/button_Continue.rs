@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Continue</name>
+   <tag></tag>
+   <elementGuidId>39472ed3-f0cb-4a9b-89d0-d63297c8cce9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.primary.v-btn--rounded</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' primary ') and contains(concat(' ', normalize-space(@class), ' '), ' v-btn--rounded ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value></value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>383b20ae-fd1d-4084-9d0f-02c8340ee64d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>94d6e83f-53f1-41a6-82dd-2c1db5c73dbd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-weight-bold v-btn v-btn--block v-btn--has-bg v-btn--rounded theme--light elevation-0 v-size--default primary</value>
+      <webElementGuid>507adb6d-5063-4a04-a5ea-b20b58df2d45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+      Continue
+    </value>
+      <webElementGuid>5b6e3846-25b9-4dc9-bffe-2875627b471b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-643ed180446b82b1c84e1f53528fdb5d</value>
+      <webElementGuid>91e41438-d366-44bd-8922-e1dd1d507584</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' primary ') and contains(concat(' ', normalize-space(@class), ' '), ' v-btn--rounded ')]</value>
+      <webElementGuid>a5c80067-2725-4ec0-843a-5f1b12381f1a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' primary ') and contains(concat(' ', normalize-space(@class), ' '), ' v-btn--rounded ')]</value>
+      <webElementGuid>b6dd81b4-8a77-4261-8931-ba43af107493</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '
+      Continue
+    ' or . = '
+      Continue
+    ')]</value>
+      <webElementGuid>d8884509-b4a8-49a0-8b7b-bc5d949a8d00</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
