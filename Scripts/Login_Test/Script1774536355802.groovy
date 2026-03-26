@@ -17,3 +17,27 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://www.zumrafood.com/en')
+
+WebUI.click(findTestObject('Page_Zumra - The Republic of Asian Ingredients/span_Login'))
+
+WebUI.setText(findTestObject('Page_Login  Zumra - The Republic of Asian I_bb4b1d/input_Phone Number'), '01800909012')
+
+WebUI.click(findTestObject('Page_Zumra - The Republic of Asian Ingredients/span_Continue'))
+
+WebUI.setText(findTestObject('Page_1 new message/input_otp-input'), '8')
+
+WebUI.setText(findTestObject('Page_Zumra - The Republic of Asian Ingredients/input_otp-input'), '7')
+
+WebUI.setText(findTestObject('Page_Zumra - The Republic of Asian Ingredients/input_otp-input_1'), '0')
+
+WebUI.setText(findTestObject('Page_Zumra - The Republic of Asian Ingredients/input_otp-input_2'), '9')
+
+WebUI.click(findTestObject('Page_1 new message/span_Continue'))
+
+WebUI.click(findTestObject('Page_1 new message/i_'))
+
+WebUI.closeBrowser()
+

@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Login</name>
+   <name>Login_Test</name>
    <tag></tag>
    <comment></comment>
+   <origin>WEB_RECORDER</origin>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>8953126d-f22e-4ed6-a346-8ce149a3a1ff</testCaseGuid>
+   <testCaseGuid>d700b72b-4521-4a3c-900a-17e3b7c63ac7</testCaseGuid>
 </TestCaseEntity>

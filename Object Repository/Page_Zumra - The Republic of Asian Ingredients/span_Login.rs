@@ -3,7 +3,7 @@
    <description></description>
    <name>span_Login</name>
    <tag></tag>
-   <elementGuidId>2a30e080-90a4-4d2d-8b55-14724449e4a1</elementGuidId>
+   <elementGuidId>141997e7-0a5d-46ce-b1d4-b522cf1e8dbb</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>77845a51-384a-4624-abd3-f67d491692b5</webElementGuid>
+      <webElementGuid>68807268-15f6-4d4c-84c4-dd0f0f7acb69</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>header-action-text black--text px-0</value>
-      <webElementGuid>b18e1c1e-8a73-4458-9ed2-976aedaca282</webElementGuid>
+      <webElementGuid>192390c9-a0a0-4e2f-9bef-54c75ccf2a11</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <value>
                     Login
                   </value>
-      <webElementGuid>452fe92a-9e15-468f-961e-40bd01fe1674</webElementGuid>
+      <webElementGuid>4cf1d1b5-a32d-4f88-8e83-7033afd3d678</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-b8c3dcf8f4ae95ab64a18c0c2fb93b71</value>
-      <webElementGuid>b46a00aa-505c-4f9d-83ee-b30d58d4cf2f</webElementGuid>
+      <webElementGuid>642c2c68-6a35-4c8e-a323-0950e4e4e617</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' header-action-text ') and contains(concat(' ', normalize-space(@class), ' '), ' black--text ')]</value>
-      <webElementGuid>b1668065-a545-4feb-a63e-02407f0ac028</webElementGuid>
+      <webElementGuid>60a96d2b-4e84-4b95-ad6a-0e42ff9e1244</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' header-action-text ') and contains(concat(' ', normalize-space(@class), ' '), ' black--text ')]</value>
-      <webElementGuid>40cb0ebe-0e90-46f0-beb0-e361fb563b6b</webElementGuid>
+      <webElementGuid>e9ebc276-face-4d25-ba75-3275f277753e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -83,6 +83,6 @@
                   ' or . = '
                     Login
                   ')]</value>
-      <webElementGuid>650a10cf-6ccc-4844-b4da-50687f3b1ed1</webElementGuid>
+      <webElementGuid>8222a463-a125-4820-81a3-ed3fa8d51fcb</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

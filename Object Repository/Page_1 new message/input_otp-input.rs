@@ -3,7 +3,7 @@
    <description></description>
    <name>input_otp-input</name>
    <tag></tag>
-   <elementGuidId>608c4d55-b1a6-47cd-aa1e-16659025ce66</elementGuidId>
+   <elementGuidId>689ef656-67a4-4e68-a1a7-0cb33960a596</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>8b4706b3-c430-448d-ba65-badeec87b2f5</webElementGuid>
+      <webElementGuid>198202d1-1f44-4db7-afb0-105544db633e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>min</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>1b4e2c96-07a1-4cd5-93d5-b033199c6dad</webElementGuid>
+      <webElementGuid>fd57305d-963f-4101-ab10-9254dbdf92a1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>max</name>
       <type>Main</type>
       <value>9</value>
-      <webElementGuid>b7443ce7-5813-4437-a993-8312b305fa6d</webElementGuid>
+      <webElementGuid>6aa32c31-86f4-43b6-ad7f-cbe0e85ce056</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>ef38407b-1aea-4f71-bb49-4a3db144aa75</webElementGuid>
+      <webElementGuid>7ae0a13a-6a18-45f2-b711-45c8f528a5ca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>pattern</name>
       <type>Main</type>
       <value>[0-9]</value>
-      <webElementGuid>1150ad44-f6c4-4059-8b95-dfb5a453bfc1</webElementGuid>
+      <webElementGuid>2864be0d-fa43-4f28-a7c6-cce6d53e71c3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>type</name>
       <type>Main</type>
       <value>tel</value>
-      <webElementGuid>c56f3980-97c0-47ca-a2ab-dacf45fd90fa</webElementGuid>
+      <webElementGuid>0a39836f-99c1-4e2d-a49b-31ab4f8f3cac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>class</name>
       <type>Main</type>
       <value>otp-input</value>
-      <webElementGuid>eec44ff1-91a2-47bb-ae6a-a12b2910a9b2</webElementGuid>
+      <webElementGuid>da2a0b70-3146-42ad-a971-8a9dec355314</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-b3191bfc421ae9e7013411efafea2962</value>
-      <webElementGuid>6dd9a2d8-71a7-4e94-8fd4-05554398d600</webElementGuid>
+      <webElementGuid>624ecabe-62a3-4169-abfc-6808aa5377c3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[(name() = 'div') and (position() = 1)]/*[@class and contains(concat(' ', normalize-space(@class), ' '), ' otp-input ')]</value>
-      <webElementGuid>682d9853-aaa8-4841-be0f-3beaeb6b59c8</webElementGuid>
+      <webElementGuid>e57619ae-c0eb-45f6-b0e5-4eedef237c7a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[(name() = 'div') and (position() = 1)]/*[@class and contains(concat(' ', normalize-space(@class), ' '), ' otp-input ')]</value>
-      <webElementGuid>dbc719a2-ae57-42e9-ae19-836d681efa88</webElementGuid>
+      <webElementGuid>09f7942d-e628-44b5-88e3-ab5acf6e1dca</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'tel']</value>
-      <webElementGuid>c927f89e-a882-40af-bdb3-1fda27bb5721</webElementGuid>
+      <webElementGuid>0a7ab47e-e4cf-4d62-987f-5ada3be7649e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
